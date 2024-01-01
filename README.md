@@ -14,6 +14,9 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 ![WhatsApp Image 2024-01-02 at 05 05 04_a3dd8bd0](https://github.com/ahmdfauzy15/asisten-virtual/assets/91053494/28e6baf8-e626-4780-9ee9-75560469fe36)
 
+Vidio tutorial
+https://drive.google.com/file/d/1vkfibSqYdMPEiQ11k5WLekeEx4qgrMzN/view?usp=drivesdk 
+
 
 ### `npm test`
 
