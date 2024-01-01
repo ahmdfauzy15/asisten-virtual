@@ -92,7 +92,7 @@ function App() {
     setIsLoading(true);
 
     const prompt = userInput;
-    const endpoint = "https://api.openai.com/v1/engines/text-davinci-003/completions"; // Replace with your updated API endpoint
+    const endpoint = "ur_api_endpoint"; // Replace with your updated API endpoint
     const body = { ...PARAMS, prompt };
 
     try {
